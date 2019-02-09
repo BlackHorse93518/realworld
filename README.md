@@ -45,7 +45,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     16: Crizmas MVC
     17: Imba
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Sat Feb 09 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -114,7 +114,7 @@ Work In Progress:
     31: Ruby & Colmena
     32: Express w/ Bookshelf.js
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Sat Feb 09 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -168,14 +168,15 @@ Work In Progress:
 [Rust / Rocket / Diesel / Mysql - Backend Application](https://github.com/gothinkster/realworld/issues/272) | 
 [Golang + Revel](https://github.com/gothinkster/realworld/issues/285) | 
 [Masonite Framework](https://github.com/gothinkster/realworld/issues/304) | 
-[Kotlin + http4k + exposed](https://github.com/gothinkster/realworld/issues/326)**
+[Kotlin + http4k + exposed](https://github.com/gothinkster/realworld/issues/326) | 
+[Turbolinks](https://github.com/gothinkster/realworld/issues/337)**
 
 # Mobile
 <!--
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Tue Feb 05 2019_
+> _Sorted by popularity on Sat Feb 09 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
